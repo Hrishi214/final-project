@@ -1,0 +1,46 @@
+.card_background{
+    color: whitesmoke;
+    padding-top: 50%;
+    font-size:100px;
+    text-align: center;
+  
+  }
+  .card_info{
+    color: whitesmoke;
+  
+    text-align: center;
+    padding-top: 5%;
+  }
+
+  img{
+    height: 80%;
+    width: 80%;
+    padding-left: 20%;
+    padding-right: 10%;
+    padding-top: 05%;
+    image-resolution: 30%;
+    border-radius: 0px;
+  }
+  
+  .cards{
+    background-color:rgba(0, 0, 0, 0.37);
+   
+
+  }
+
+  a button{
+    size: 800px;
+    box-sizing: border-box;
+    background-color: #ad0000;
+    border: none;
+    color: white;
+    padding: 15px 32px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 50px 50px;
+    cursor: pointer;
+    border-radius: 30px;
+  
+  }
